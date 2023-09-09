@@ -19,7 +19,7 @@ My expertise encompasses programming, algorithms, data structures, computational
 ## Work Experiences
 
 #### IITI S.A.E.C.A
-`2020 - 2023`
+`2020 - 2023 | Asuncion-Paraguay`
 ***As Front-End:*** Angular 2+, Docker
 * Developed and configured a base project using Angular 2+, Angular Material and Bootstrap for the creation of a modern web application.
 * Transformed the project into a Progressive Web App (PWA) to ensure automatic version updates.
@@ -38,19 +38,19 @@ My expertise encompasses programming, algorithms, data structures, computational
 * Actively contributed to the ongoing development of new APIs and new requirements necessary for system operation.
 
 #### V informatica
-`2017 - 2020`
-Work full time and part time.
+`2017 - 2020  | Zúrich-Switzerland`
+Remote Work as full time and part time.
 * I designed and developed a comprehensive web system for the church portal [kirche-zh](https://kirche-zh.ch) that included event registration and booking functions. I used [DynPG](https://dynpg.org)'s PHP-based CMS, along with MySQL, HTML, Bootstrap and jQuery to create an efficient, high-performance platform.
 * In addition to the initial creation, I was responsible for the ongoing maintenance of the [DynPG](https://dynpg.org) CMS portal, ensuring its optimal functionality and the resolution of any issues that arose.
 * One of the key tasks was to create cron jobs for automatic event logging, which allowed automatic updating of events on the website according to information provided by third party APIs. I also established a successful connection to these APIs using file reading methods via FTP and RESTful connections to ensure efficient and reliable communication.
 * This implementation allowed for seamless data integration and a smooth user experience on the website, and ensured that event information was always up to date and accurate.
 
 #### National Computing Center - Universidad Nacional Asuncion
-`2018 - 2019`
+`2018 - 2019 | Asuncion-Paraguay`
 * I developed a student registration system for the Faculty of Engineering, implementing significant changes in the user experience. I used Angular 2+ to completely redesign the registration web interface, prioritizing a more fluid and friendly experience for students.
 * In addition, I carried out optimizations and re-engineering in the backend enrollment system. I used Spring Boot, PostgreSQL and GlassFish to improve the system's performance and ensure its ability to handle simultaneous queries, especially during exam and registration periods. It was a complete success to launch the system, as it demonstrated a robust load capacity that overcame the limitations of the previous system.
 * I kept the system up to date at all times, incorporating new requirements, such as surveys, and ensuring that the necessary packages and components were kept up to date to ensure the continuous and efficient operation of the system.
 
 #### Ipostivo
-`2015 - 2017`
+`2015 - 2017 | Asuncion-Paraguay`
 * During my time at the company, I had the responsibility of designing and developing multiple websites for external clients as well as for the company itself. In addition, I took on the management and administration of hosting servers for both clients and our company.
