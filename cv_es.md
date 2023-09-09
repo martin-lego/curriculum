@@ -1,9 +1,8 @@
 # Martín Legal Gómez
 > Desarrollador Software | Frontend & Backend
 >
-|**Email:** [martin.legal.gomez@gmail.com](mailto:martin.legal.gomez@gmail.com) &#124; **Tel:** [+595 971 656399](http://wa.me/595971656399?text=hola%20martin%20vi%20tu%20curriculum%20y%20quisiera%20ofrecerte%20...) &#124;   **Ubicacion:** Asuncion - Paraguay |
- | ---- | 
- | <a href="https://www.linkedin.com/in/martin-lego"><img src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" height="30" width="auto"></img></a> <a href="https://github.com/martin-lego"><img src="https://github.githubassets.com/favicons/favicon.png" height="30" width="auto"></img></a>  [![wakatime](https://wakatime.com/badge/user/f1918e6b-5d42-4c14-84b1-8e4dc6deadcd.svg)](https://wakatime.com/@f1918e6b-5d42-4c14-84b1-8e4dc6deadcd) |
+|**Email:** [martin.legal.gomez@gmail.com](mailto:martin.legal.gomez@gmail.com) &#124; **Tel:** [+595 971 656399](http://wa.me/595971656399?text=hola%20martin%20vi%20tu%20curriculum%20y%20quisiera%20ofrecerte%20...) &#124; **Ubicacion:** Asuncion - Paraguay   &#124;  <a href="https://www.linkedin.com/in/martin-lego"><img src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" height="30" width="auto"></img></a> &#124;  <a href="https://github.com/martin-lego"><img src="https://github.githubassets.com/favicons/favicon.png" height="30" width="auto"></img></a>|
+ | ---- |
 
 ## Sobre mi
 Con casi 10 años de experiencia como profesional, he desempeñado un papel esencial en la creación y mejora de aplicaciones modernas y sistemas API full REST. Mi experiencia como Front-End se centra en la construcción de proyectos altamente funcionales con `Angular | react | html | jquery | css`, habiendo transformado con éxito proyectos en Progressive Web Apps (PWA) para garantizar actualizaciones automáticas y la implementación de prácticas de CI/CD. Mi capacidad para diseñar módulos genéricos y mantener entornos seguros y actualizados ha sido fundamental.
