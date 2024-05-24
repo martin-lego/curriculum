@@ -5,57 +5,52 @@
  | ---- |
 
 ## About me
-With almost 10 years of experience as a professional, I have played an essential role in creating and enhancing modern applications and full REST API systems. My Front-End experience focuses on building highly functional projects with `Angular | react | html | jquery | css`, having successfully transformed projects into Progressive Web Apps (PWA) to ensure automatic updates and the implementation of CI/CD practices. My ability to design generic modules and maintain secure and up-to-date environments has been fundamental.
-On the Back-End, my knowledge in `Node.js, Express, Sequelize and PostgreSQL, Php` has allowed me to contribute significantly to the development and maintenance of full REST API systems, with a focus on security and efficiency.
+With over 5 years of experience as a professional, I have played an essential role in creating and enhancing modern applications and RESTful API systems. My front-end experience focuses on building highly functional projects using `Angular, React, HTML, jQuery, and CSS`. I have successfully migrated SPAs into Progressive Web Apps (PWAs) to ensure automatic updates and implemented state-of-the-art CI/CD practices. My ability to design generic modules and maintain secure and up-to-date environments has been fundamental.
 
-My commitment to technical excellence and continuous improvement is reflected in my constant contribution to the development of new functionality and adaptation to changing project requirements. I am excited to continue to face technological challenges and bring innovative solutions to future teams and projects.
+On the back end, my knowledge of `Node.js, Express, Sequelize, PostgreSQL, and PHP` has allowed me to contribute significantly to the development and maintenance of RESTful API systems, with a focus on security and efficiency.
+
+My commitment to technical excellence and continuous improvement is reflected in my constant contribution to the development of new functionality and adaptation to changing project requirements. I am excited to continue facing technological challenges and bringing innovative solutions to future teams and projects.
 
 ## Educational background
 #### National University of Asuncion - Polytechnic Faculty
 `Computer Engineering | 2006-2014`
 
-As a student of this career, I have acquired a strong background in engineering and computer science. My training allows me to address real-world challenges through the creation of computational models and their effective implementation.
-My expertise encompasses programming, algorithms, data structures, computational logic, and relational databases. In addition, I have broadened my skill set through elective courses in areas such as network design and security, front-end and back-end development, as well as datamining and cloud-computing.I am prepared to apply these skills in practical situations and contribute meaningfully to technology projects and challenges.
+During my time in college, I acquired a strong background in engineering and computer science. My training allows me to address real-world challenges through the creation of computer programs and their effective implementation. My expertise encompasses programming, algorithms, data structures, computational logic, and relational databases. In addition, I have broadened my skill set through elective courses in areas such as security, front-end and back-end development, and cloud computing. I continuously apply these skills in practical situations and contribute meaningfully to technology projects and challenges.
 
 ## Work Experiences
 
-#### IITI S.A.E.C.A
-`2020 - 2023 | Asuncion-Paraguay`
+#### IITI S.A.E.C.A `2020 - 2024 | Asuncion-Paraguay`
 
-***As Front-End:*** Angular 2+, Docker
-* Developed and configured a base project using Angular 2+, Angular Material and Bootstrap for the creation of a modern web application.
-* Transformed the project into a Progressive Web App (PWA) to ensure automatic version updates.
-* Implemented integration with Docker and GitHub Actions to achieve an efficient Continuous Integration/Continuous Delivery (CI/CD) flow.
-* Designed generic modules that facilitated form development across the project using Angular's Reactive Forms.
-* Collaborated in updating the control panel design to a modern version, in line with the product team's specifications using Figma.
-* I kept the Angular ecosystem up to date and secure, ensuring the absence of vulnerabilities.
-* Created interceptors for error control and authentication, implementing the OAuth 2.0 model for strong authentication and reauthentication security.
-* Contributed to the ongoing development of new modules and project requirements.
+***As Front-End:*** `Angular 2+, Docker`
+* Led the full development lifecycle of a modern web application using Angular 2+, Angular Material, Bootstrap, and Angular's Reactive Forms.
+* Migrated a project to a Progressive Web App (PWA) for automatic updates.
+* Implemented CI/CD with Docker and GitHub Actions.
+* Designed generic modules for form development with Angular's Reactive Forms.
+* Upgraded the administration dashboard per product team specifications and Figma designs.
+* Created interceptors for error control and strong authentication using OAuth 2.0.
 
-***As Back-End:*** Node.js, Express, Sequelize, PostgreSQL, Docker
-* Participated in the development and maintenance of a comprehensive payment management system, including services, fees, loans, savings deposits and more.
-* Effectively configured Docker and GitHub Actions to ensure smooth continuous deployment and continuous delivery (CI/CD).
-* I implemented CouchDB for system request logging, using Axios, which allowed for efficient error checking and effective system monitoring.
-* Made modifications and adjustments to the user login process, implementing the OAuth 2.0 authentication model with JWT tokens to improve security.
-* Actively contributed to the ongoing development of new APIs and new requirements necessary for system operation.
+***As Back-End:*** `Node.js, Express, Sequelize, PostgreSQL, Docker`
+* Participated in the development and maintenance of a comprehensive payment management system, including services, fees, loans, and savings deposits.
+* Configured Docker and GitHub Actions for smooth CI/CD.
+* Implemented CouchDB for system request logging and monitoring using Axios.
+* Enhanced user login security by implementing OAuth 2.0 with JWT tokens.
 
-#### V informatica
-`2017 - 2020  | Zúrich-Switzerland`
+#### V informatica `2017 - 2020  | Zúrich-Switzerland` 
 
-Remote Work as full time and part time.
-* I designed and developed a comprehensive web system for the church portal [kirche-zh](https://kirche-zh.ch) that included event registration and booking functions. I used [DynPG](https://dynpg.org)'s PHP-based CMS, along with MySQL, HTML, Bootstrap and jQuery to create an efficient, high-performance platform.
-* In addition to the initial creation, I was responsible for the ongoing maintenance of the [DynPG](https://dynpg.org) CMS portal, ensuring its optimal functionality and the resolution of any issues that arose.
-* One of the key tasks was to create cron jobs for automatic event logging, which allowed automatic updating of events on the website according to information provided by third party APIs. I also established a successful connection to these APIs using file reading methods via FTP and RESTful connections to ensure efficient and reliable communication.
-* This implementation allowed for seamless data integration and a smooth user experience on the website, and ensured that event information was always up to date and accurate.
+Remote Work as full time and part time. `PHP, Apache, Mysql, Html, CSS, Jquery`
+* Designed and developed a comprehensive web system for the church portal [kirche-zh](https://kirche-zh.ch), including event registration and booking functions, using [DynPG's](https://dynpg.org) PHP-based CMS, MySQL, HTML, Bootstrap, and jQuery.
+* Maintained the [DynPG CMS](https://dynpg.org) portal, ensuring optimal functionality and resolving issues.
+* Created cron jobs for automatic event logging and established connections to third-party APIs via FTP and RESTful methods for efficient data integration and communication.
+* Ensured a seamless user experience with up-to-date and accurate event information on the website.
 
-#### National Computing Center - Universidad Nacional Asuncion
-`2018 - 2019 | Asuncion-Paraguay`
+#### National Computing Center - Universidad Nacional Asuncion `2018 - 2019 | Asuncion-Paraguay`
 
-* I developed a student registration system for the Faculty of Engineering, implementing significant changes in the user experience. I used Angular 2+ to completely redesign the registration web interface, prioritizing a more fluid and friendly experience for students.
-* In addition, I carried out optimizations and re-engineering in the backend enrollment system. I used Spring Boot, PostgreSQL and GlassFish to improve the system's performance and ensure its ability to handle simultaneous queries, especially during exam and registration periods. It was a complete success to launch the system, as it demonstrated a robust load capacity that overcame the limitations of the previous system.
-* I kept the system up to date at all times, incorporating new requirements, such as surveys, and ensuring that the necessary packages and components were kept up to date to ensure the continuous and efficient operation of the system.
+* Developed a student registration system for the Faculty of Engineering, using Angular 2+ to redesign the web interface for a more fluid and user-friendly experience.
+* Optimized and re-engineered the backend enrollment system using Spring Boot, PostgreSQL, and GlassFish to improve performance and handle simultaneous queries, particularly during exam and registration periods.
+* Maintained the system by incorporating new requirements, such as surveys, and keeping packages and components up-to-date for continuous and efficient operation.
 
-#### Ipostivo
-`2015 - 2017 | Asuncion-Paraguay`
+#### Ipostivo `2015 - 2017 | Asuncion-Paraguay`
 
-* During my time at the company, I had the responsibility of designing and developing multiple websites for external clients as well as for the company itself. In addition, I took on the management and administration of hosting servers for both clients and our company.
+Remote Work as full time and part time. `Nodejs, Sequelize, PHP, Mysql, Html, CSS, Jquery`
+* Designed and developed multiple websites for external clients and the company.
+* Managed and administered hosting servers for both clients and the company.

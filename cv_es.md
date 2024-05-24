@@ -5,58 +5,56 @@
  | ---- |
 
 ## Sobre mi
-Con casi 10 años de experiencia como profesional, he desempeñado un papel esencial en la creación y mejora de aplicaciones modernas y sistemas API full REST. Mi experiencia como Front-End se centra en la construcción de proyectos altamente funcionales con `Angular | react | html | jquery | css`, habiendo transformado con éxito proyectos en Progressive Web Apps (PWA) para garantizar actualizaciones automáticas y la implementación de prácticas de CI/CD. Mi capacidad para diseñar módulos genéricos y mantener entornos seguros y actualizados ha sido fundamental.
-En el Back-End, mi conocimiento en `Node.js, Express, Sequelize y PostgreSQL, Php` me ha permitido contribuir significativamente al desarrollo y mantenimiento de sistemas API full REST, con un enfoque en la seguridad y la eficiencia.
+Con más de 5 años de experiencia como profesional, he desempeñado un papel esencial en la creación y mejora de aplicaciones modernas y sistemas de API RESTful. Mi experiencia en el front-end se centra en la construcción de proyectos altamente funcionales utilizando Angular, React, HTML, jQuery y CSS. He migrado con éxito SPAs a Progressive Web Apps (PWAs) para asegurar actualizaciones automáticas e implementado prácticas avanzadas de CI/CD. Mi capacidad para diseñar módulos genéricos y mantener entornos seguros y actualizados ha sido fundamental.
 
-Mi compromiso con la excelencia técnica y la mejora continua se refleja en mi contribución constante al desarrollo de nuevas funcionalidades y la adaptación a los requisitos cambiantes del proyecto. Estoy entusiasmado por seguir enfrentando desafíos tecnológicos y aportar soluciones innovadoras a equipos y proyectos futuros.
+En el back-end, mi conocimiento de Node.js, Express, Sequelize, PostgreSQL y PHP me ha permitido contribuir significativamente al desarrollo y mantenimiento de sistemas de API RESTful, con un enfoque en la seguridad y la eficiencia.
+
+Mi compromiso con la excelencia técnica y la mejora continua se refleja en mi constante contribución al desarrollo de nuevas funcionalidades y adaptación a los cambios en los requisitos del proyecto. Estoy emocionado de seguir enfrentando desafíos tecnológicos y aportando soluciones innovadoras a futuros equipos y proyectos.
 
 ## Formación
 #### Universidad Nacional de Asuncion - Facultad Politecnica
 `Ingenieria informatica | 2006-2014`
 
-Como estudiante de esta carrera, he adquirido una sólida formación en ingeniería y ciencias de la computación. Mi capacitación me permite abordar desafíos del mundo real mediante la creación de modelos computacionales y su implementación efectiva.
-Mis conocimientos abarcan programación, algoritmos, estructuras de datos, lógica computacional y bases de datos relacionales. Además, he ampliado mi conjunto de habilidades a través de cursos electivos en áreas como diseño y seguridad en redes, desarrollo front-end y back-end, así como datamining y cloud-computing.
-Estoy preparado para aplicar estas habilidades en situaciones prácticas y contribuir de manera significativa a proyectos y desafíos tecnológicos
+Durante mi tiempo en la universidad, adquirí una sólida formación en ingeniería y ciencias de la computación. Mi formación me permite abordar desafíos del mundo real a través de la creación de programas informáticos y su implementación efectiva. Mi experiencia abarca programación, algoritmos, estructuras de datos, lógica computacional y bases de datos relacionales. Además, he ampliado mi conjunto de habilidades mediante cursos electivos en áreas de seguridad, desarrollo front-end y back-end, y computación en la nube. Aplico continuamente estas habilidades en situaciones prácticas y contribuyo significativamente a proyectos y desafíos tecnológicos.
 
 ## Experiencias de Trabajos
 
-#### IITI S.A.E.C.A
-`2020 - 2023 | Asuncion-Paraguay`
+#### IITI S.A.E.C.A `2020 - 2024 | Asuncion-Paraguay`
 
-***Como Front-End:*** Angular 2+, Docker
-* Desarrollé y configuré un proyecto base utilizando Angular 2+, Angular Material y Bootstrap para la creación de una aplicación web moderna.
-* Transformé el proyecto en una Progressive Web App (PWA) para asegurar actualizaciones automáticas de versión.
-* Implementé la integración con Docker y GitHub Actions para lograr un flujo de Integración Continua/Entrega Continua (CI/CD) eficiente.
-* Diseñé módulos genéricos que facilitaron el desarrollo de formularios en todo el proyecto mediante el uso de Reactive Forms de Angular.
-* Colaboré en la actualización del diseño del panel de control a una versión moderna, en línea con las especificaciones del equipo de producto utilizando Figma.
-* Mantuve el ecosistema Angular actualizado y seguro, garantizando la ausencia de vulnerabilidades.
-* Creé un interceptor para el control de errores y la autenticación, implementando el modelo OAuth 2.0 para una sólida seguridad de autenticación y reautenticación.
-* Contribuí al desarrollo continuo de nuevos módulos y requisitos del proyecto.
+***Como Front-End:*** `Angular 2+, Docker`
+* Dirigí el ciclo completo de desarrollo de una aplicación web moderna utilizando Angular 2+, Angular Material y Bootstrap.
+* Migré un proyecto a una Progressive Web App (PWA) para actualizaciones automáticas.
+* Implementé CI/CD con Docker y GitHub Actions.
+* Diseñé módulos genéricos para el desarrollo de formularios con Reactive Forms de Angular.
+* Actualicé el panel de administración según las especificaciones del equipo de producto y diseños de Figma.
+* Mantuve el ecosistema de Angular actualizado y seguro.
+* Creé interceptores para el control de errores y autenticación sólida utilizando OAuth 2.0.
+* Contribuí al desarrollo de nuevos módulos y requisitos del proyecto.
 
-***Back-End:*** Node.js, Express, Sequelize, PostgreSQL, Docker
-* Participé en el desarrollo y mantenimiento de un sistema integral de gestión de pagos, que incluía servicios, cuotas, préstamos, depósitos de ahorro y más.
-* Configuré eficazmente Docker y GitHub Actions para garantizar una implementación continua y entrega continua (CI/CD) fluida.
-* Implementé CouchDB para el registro de solicitudes del sistema, utilizando Axios, lo que permitió una verificación eficiente de errores y un monitoreo efectivo del sistema.
-* Realicé modificaciones y ajustes en el proceso de inicio de sesión de usuarios, implementando el modelo de autenticación OAuth 2.0 con tokens JWT para mejorar la seguridad.
-* Contribuí activamente al desarrollo continuo de nuevas API y requisitos nuevos, necesarios para el funcionamiento del sistema.
+***Back-End:*** `Node.js, Express, Sequelize, PostgreSQL, Docker`
+* Participé en el desarrollo y mantenimiento de un sistema de gestión de pagos integral, incluyendo servicios, tarifas, préstamos y depósitos de ahorro.
+* Configuré Docker y GitHub Actions para un CI/CD fluido.
+* Implementé CouchDB para el registro y monitoreo de solicitudes del sistema utilizando Axios.
+* Mejoré la seguridad del inicio de sesión de usuarios implementando OAuth 2.0 con tokens JWT.
+* Contribuí al desarrollo de nuevas API y requisitos del sistema.
 
-#### V informatica
-`2017 - 2020 | Zúrich-Suiza`
+#### V informatica `2017 - 2020 | Zúrich-Suiza`
 
-Trabaje remoto a tiempo completo y parcial.
-* Diseñé y desarrollé un sistema web integral para el portal de iglesias [kirche-zh](https://kirche-zh.ch) que incluía funciones de registro de eventos y reservas. Utilicé el CMS de [DynPG](https://dynpg.org), basado en PHP, junto con MySQL, HTML, Bootstrap y jQuery para crear una plataforma eficiente y de alto rendimiento.
-* Además de la creación inicial, me encargué del mantenimiento continuo del portal CMS [DynPG](https://dynpg.org), garantizando su funcionalidad óptima y la resolución de cualquier problema que surgiera.
-* Una de las tareas clave fue crear cron jobs para el registro automático de eventos, lo que permitió la actualización automática de eventos en el sitio web de acuerdo con la información proporcionada por las APIs de terceros. También establecí una conexión exitosa con estas APIs utilizando métodos de lectura de archivos a través de FTP y conexiones RESTful para asegurar una comunicación eficiente y confiable.
-* Esta implementación permitió una integración perfecta de datos y una experiencia de usuario fluida en el sitio web, y aseguró que la información de eventos estuviera siempre actualizada y precisa.
+Trabaje remoto a tiempo completo y parcial. `PHP, Apache, Mysql, Html, CSS, Jquery`
+* Diseñé y desarrollé un sistema web integral para el portal de la iglesia [kirche-zh](https://kirche-zh.ch), incluyendo funciones de registro y reserva de eventos, utilizando el CMS basado en PHP de [DynPG](https://dynpg.org), MySQL, HTML, Bootstrap y jQuery.
+* Mantuve el portal [DynPG CMS](https://dynpg.org), asegurando su funcionalidad óptima y resolviendo problemas.
+* Creé trabajos cron para el registro automático de eventos y establecí conexiones con APIs de terceros a través de métodos FTP y RESTful para una integración y comunicación de datos eficiente.
+* Aseguré una experiencia de usuario fluida con información de eventos siempre actualizada y precisa en el sitio web.
 
-#### Centro Nacional de Computacion
-`2018 - 2019 | Asuncion-Paraguay`
+#### Centro Nacional de Computacion `2018 - 2019 | Asuncion-Paraguay`
 
-* Desarrollé un sistema de inscripciones de alumnos para la Facultad de Ingeniería, implementando cambios significativos en la experiencia del usuario. Utilicé Angular 2+ para rediseñar por completo la interfaz web de inscripciones, priorizando una experiencia más fluida y amigable para los alumnos.
-* Además, llevé a cabo optimizaciones y reingeniería en el sistema backend de inscripciones. Utilicé Spring Boot, PostgreSQL y GlassFish para mejorar el rendimiento del sistema y garantizar su capacidad para manejar consultas simultáneas, especialmente durante los períodos de exámenes e inscripciones. El éxito fue total al lanzar el sistema, ya que demostró una robusta capacidad de carga que superó las limitaciones del sistema anterior.
-* Mantuve el sistema actualizado en todo momento, incorporando nuevos requerimientos, como encuestas, y asegurándome de que los paquetes y componentes necesarios se mantuvieran al día para garantizar el funcionamiento continuo y eficiente del sistema.
+* Desarrollé un sistema de registro de estudiantes para la Facultad de Ingeniería, utilizando Angular 2+ para rediseñar la interfaz web y lograr una experiencia más fluida y amigable para los estudiantes.
+* Optimicé y reingeniericé el sistema de inscripción en el backend utilizando Spring Boot, PostgreSQL y GlassFish para mejorar el rendimiento y manejar consultas simultáneas, especialmente durante los periodos de exámenes e inscripciones.
+* Mantuve el sistema incorporando nuevos requisitos, como encuestas, y manteniendo actualizados los paquetes y componentes para asegurar una operación continua y eficiente.
 
-#### Ipostivo
-`2015 - 2017 | Asuncion-Paraguay`
+#### Ipostivo `2015 - 2017 | Asuncion-Paraguay`
 
-* Durante mi tiempo en la empresa, tuve la responsabilidad de diseñar y desarrollar múltiples sitios web para clientes externos, así como para la propia empresa. Además, asumí la gestión y administración de servidores de hosting tanto para clientes como para nuestra empresa
+Trabajo remoto a tiempo completo y parcial. `Node.js, Sequelize, PHP, MySQL, HTML, CSS, jQuery`
+
+* Diseñé y desarrollé múltiples sitios web para clientes externos y la empresa.
+* Gestioné y administré servidores de hosting para clientes y la empresa.
