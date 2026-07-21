@@ -1,106 +1,81 @@
 # Martín Legal Gómez
 
-> Full-Stack Software Engineer | API Integration Specialist | Technical Leader
+**Full-Stack Software Engineer | Node.js & Angular Specialist**
 
-**Email:** [martintmlg@gmail.com](mailto:martintmlg@gmail.com)  
-**Tel:** [+1 (347) 864-5718](http://wa.me/595971656399?text=hi%20martin%20i%20saw%20your%20resume%20and%20wanted%20to%20...)  
-**Location:** Long Island City, NY, United States  
+📍 Long Island City, NY  
+📧 martintmlg@gmail.com | 📞 +1 (347) 864-5718  
 [LinkedIn](https://www.linkedin.com/in/martin-lego) | [GitHub](https://github.com/martin-lego)
 
 ---
 
-## Key Skills
+## Summary
 
-- **Front-End:** Angular 2+, React, RxJS, Material Design, PWA, Responsive Design, Bootstrap, Tailwind CSS, Jquery
-- **Back-End:** Node.js, Express, NestJS, Sequelize, PostgreSQL, PHP, Spring Boot (Java), JPA
-- **Databases:** PostgreSQL (optimization for 20M+ rows, triggers, indexing), CouchDB, MongoDB, MySQL
-- **DevOps & Cloud**: Docker, Docker Compose, GitHub Actions, AWS (S3, EC2, Lambda), Digital Ocean
-- **Tools & Practices:** Git (branching strategies, code reviews), ESLint, Winston (logging), REST/GraphQL API Design, OAuth2, JWT
+Full-Stack Engineer with 7+ years of experience building scalable systems and high-volume APIs.  
+Specialized in Node.js and Angular, handling systems with 500k+ daily transactions.  
+Strong focus on performance, clean architecture, and CI/CD automation.
 
 ---
 
-## About Me
+## Skills
 
-Full-Stack Engineer with over **7 years of experience** in developing scalable applications, complex API integrations, and technical team leadership. Expert in **Node.js and PostgreSQL**, with projects processing over **550k transactions daily**. Recognized for optimizing development processes through **CI/CD, microservices, and clean code practices**. International experience (Switzerland) and a strong background in **software architecture, DevOps, and security**.
-
----
-
-## Work Experience
-
-### IITI S.A.E.C.A
-
-> _Full-Stack Engineer & Tech Lead_ | 📍 Asunción, Paraguay | 2020 – 2025
-
-**Front-End (Angular 2+, Docker):**
-
-- Led full development lifecycle of a modern web application using Angular Material, Bootstrap, and Reactive Forms.
-- Migrated project to a Progressive Web App (PWA) for automatic updates.
-- Implemented CI/CD pipelines with Docker and GitHub Actions.
-- Designed reusable modules for form development.
-- Upgraded admin dashboard based on Figma designs.
-- Developed interceptors for error handling and robust authentication (OAuth 2.0).
-
-**Back-End (Node.js, Express, Sequelize, PostgreSQL, Docker):**
-
-- Developed and maintained a payment management system processing 500,000+ transactions daily, including Western Union payments.
-- Built APIs to integrate Western Union services, expanding operational reach and enabling ITTI to become a Western Union Master Agency.
-- Configured Docker and GitHub Actions for CI/CD.
-- Implemented CouchDB for system logging and monitoring.
-- Enhanced login security with OAuth 2.0 and JWT tokens.
-- Migrated the Wepa app backend to Next.js, improving performance and scalability by 30%.
-
-**Additional Responsibilities:**
-
-- Architectural and design decisions for new features.
-- Code reviews for quality and best practices.
-- Coordination with cross-functional teams for API integration and compliance.
+**Languages & Frameworks:** Node.js, Angular, React, NestJS, Spring Boot  
+**Databases:** PostgreSQL, MongoDB, CouchDB, MySQL  
+**Cloud & DevOps:** Docker, GitHub Actions, AWS, DigitalOcean  
+**Practices:** REST/GraphQL APIs, OAuth2, JWT, CI/CD, Clean Code
 
 ---
 
-### V Informatica (2017 - 2020 | Zürich, Switzerland)
+## Experience
 
-> _Full-Stack Developer (Remote): PHP, Apache, MySQL, HTML, CSS, jQuery_ | 📍 Zürich, Suiza | 2017 – 2020
+### ITTI S.A.E.C.A — Full-Stack Engineer & Tech Lead
 
-- Designed and developed [kirche-zh](https://kirche-zh.ch) portal, handling 10,000+ event registrations annually and improving booking efficiency by 20%.
-- Maintained [DynPG CMS](https://dynpg.org) portal.
-- Created cron jobs for event logging and integrated third-party APIs via FTP and REST.
-- Ensured seamless user experience with accurate event information.
+_Asunción, Paraguay | 2020 – Present_
 
----
-
-### National Computing Center - Universidad Nacional Asuncion
-
-> _Software Developer_ | 📍 Paraguay | 2018 – 2019
-
-- Developed a student registration system for the Faculty of Engineering, managing 5,000+ active users per exam period.
-- Redesigned web interface with Angular 2+ for improved usability.
-- Optimized backend with Spring Boot, PostgreSQL, and GlassFish to handle 200+ queries/sec.
-- Maintained system with new features and up-to-date packages.
+- Led development of a payment platform processing **500k+ transactions daily**
+- Built and maintained integrations with **Western Union APIs**, enabling new revenue streams
+- Developed backend services with **NestJS** for user registration and payment flows
+- Implemented **document verification and data validation (KYC)** for Western Union operations
+- Designed scalable backend architecture using **Node.js + PostgreSQL**
+- Improved system performance by **30%** through query optimization and architecture changes
+- Implemented CI/CD pipelines using **Docker and GitHub Actions**
+- Led technical decisions, code reviews, and cross-team coordination
 
 ---
 
-### Ipostivo
+### V Informatica — Full-Stack Developer (Remote)
 
-> _Web Developer (Remote)_ | 📍 Paraguay | 2015 – 2017
+_Zürich, Switzerland | 2017 – 2020_
 
-- Designed and developed multiple websites for clients and company.
-- Managed hosting servers for clients and company.
+- Developed event platform handling **10k+ annual registrations**
+- Improved booking efficiency by **20%**
+- Integrated third-party APIs via REST and FTP
+- Automated processes using cron jobs and backend services
 
 ---
 
-## Featured Projects
+### National Computing Center — Software Developer
 
-- **Western Union Payment System (2021–2025)**: Node.js + PostgreSQL backend, processing **550k+ daily transactions**.
-- **Wepa App (2021)**: Migrated backend to Next.js, optimized queries and scalability **(30% faster)**.
-- **Kirche-ZH (2017–2020)**: Event portal in Switzerland, **10k+ annual registrations**, 20% efficiency improvement.
+_Paraguay | 2018 – 2019_
+
+- Built student registration system supporting **5,000+ users per exam period**
+- Optimized backend performance to handle **200+ queries/sec**
+- Redesigned frontend using Angular to improve usability
+
+---
+
+### Ipositivo — Web Developer
+
+_2015 – 2017_
+
+- Developed and maintained multiple client websites using **Node.js, PHP, JavaScript, and MySQL**
+- Managed hosting infrastructure and deployments
 
 ---
 
 ## Education
 
-**National University of Asuncion - Polytechnic Faculty**  
-*Computer Engineering | 2006-2014*
+**Universidad Americana (Paraguay)**  
+Bachelor’s Degree in Information Systems *(In Progress)*
 
-- Strong foundation in engineering and computer science: programming, algorithms, data structures, computational logic, and relational databases.
-- Elective courses in security, front-end/back-end development, and cloud computing.
-- Practical application of skills in real-world projects.
+**National University of Asunción**  
+Computer Engineering
