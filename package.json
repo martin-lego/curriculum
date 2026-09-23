@@ -1,0 +1,14 @@
+{
+  "name": "cv-pdfs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Markdown CVs with reproducible PDF generation via headless Chrome.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-pdfs.mjs",
+    "start": "node scripts/build-pdfs.mjs"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}

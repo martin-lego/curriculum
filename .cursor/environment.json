@@ -1,0 +1,6 @@
+{
+  "name": "CV PDFs",
+  "user": "ubuntu",
+  "install": "PUPPETEER_SKIP_DOWNLOAD=true npm install",
+  "chromeExecutablePath": "/usr/bin/google-chrome"
+}
