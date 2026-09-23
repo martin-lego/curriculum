@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Node.js & Angular Specialist**
 
-📍 Long Island City, NY  
+📍 Long Island City, NY
 📧 martintmlg@gmail.com | 📞 +1 (347) 864-5718  
 [LinkedIn](https://www.linkedin.com/in/martin-lego) | [GitHub](https://github.com/martin-lego)
 
@@ -10,7 +10,7 @@
 
 ## Summary
 
-Full-Stack Engineer with 7+ years of experience building scalable systems and high-volume APIs.  
+Full-Stack Engineer with 10+ years of experience building scalable systems and high-volume APIs.  
 Specialized in Node.js and Angular, handling systems with 500k+ daily transactions.  
 Strong focus on performance, clean architecture, and CI/CD automation.
 
@@ -74,8 +74,5 @@ _2015 – 2017_
 
 ## Education
 
-**Universidad Americana (Paraguay)**  
-Bachelor’s Degree in Information Systems *(In Progress)*
-
-**National University of Asunción**  
+**National University of Asunción**
 Computer Engineering
